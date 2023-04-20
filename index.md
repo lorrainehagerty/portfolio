@@ -5,6 +5,8 @@ title: Home
 
 ## Welcome to this sample portfolio!
 
+Welcome!
+
 
 #### Here are some example pages:
 
